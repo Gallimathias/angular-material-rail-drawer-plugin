@@ -62,7 +62,6 @@
             "main": "projects/angular-material-rail-drawer-example/src/main.ts",
             "polyfills": "projects/angular-material-rail-drawer-example/src/polyfills.ts",
             "tsConfig": "projects/angular-material-rail-drawer-example/tsconfig.app.json",
-            "aot": true,
             "assets": [
               "projects/angular-material-rail-drawer-example/src/favicon.ico",
               "projects/angular-material-rail-drawer-example/src/assets"
@@ -70,7 +69,13 @@
             "styles": [
               "projects/angular-material-rail-drawer-example/src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [],
+            "vendorChunk": true,
+            "extractLicenses": false,
+            "buildOptimizer": false,
+            "sourceMap": true,
+            "optimization": false,
+            "namedChunks": true
           },
           "configurations": {
             "production": {
@@ -100,7 +105,8 @@
                 }
               ]
             }
-          }
+          },
+          "defaultConfiguration": ""
         },
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
