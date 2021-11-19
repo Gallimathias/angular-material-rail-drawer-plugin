@@ -13,6 +13,13 @@
     "name": "Jordan Hall",
     "email": "Jordan@libertyware.co.uk"
   },
+  "contributors": [
+    {
+      "name": "Maximilian Krüger",
+      "email": "info@clattenzaun.de",
+      "url": "https://clattenzaun.de"
+    }
+  ],
   "homepage": "https://medium.com/@LostDeveloper/angular-material-navigation-drawer-adding-support-mode-rail-mini-variant-behaviour-8f7b107700b3",
   "repository": {
     "type": "git",
