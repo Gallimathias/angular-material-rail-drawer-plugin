@@ -1,0 +1,57 @@
+[NX Daemon Server] - 2024-08-16T13:15:36.389Z - Started listening on: \\.\pipe\nx\C:\Users\MAXIMI~1\AppData\Local\Temp\e4fc2e8cf4aa94459a9a\d.sock
+[NX Daemon Server] - 2024-08-16T13:15:36.394Z - [WATCHER]: Subscribed to changes within: C:\Projects\Privat\angular-material-rail-drawer-plugin (native)
+[NX Daemon Server] - 2024-08-16T13:15:36.399Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-08-16T13:15:36.402Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-08-16T13:15:36.402Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-08-16T13:15:36.404Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-16T13:15:36.405Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-16T13:15:36.405Z - Handled GLOB. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-08-16T13:15:37.114Z - [REQUEST]: Responding to the client. handleNxWorkspaceFiles
+[NX Daemon Server] - 2024-08-16T13:15:37.114Z - Done responding to the client handleNxWorkspaceFiles
+[NX Daemon Server] - 2024-08-16T13:15:37.114Z - Handled GET_NX_WORKSPACE_FILES. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-16T13:15:37.177Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-08-16T13:15:37.398Z - [WATCHER]: .yarn/install-state.gz was modified
+[NX Daemon Server] - 2024-08-16T13:15:37.398Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-16T13:15:37.522Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-16T13:15:37.522Z - [REQUEST]: .yarn/install-state.gz
+[NX Daemon Server] - 2024-08-16T13:15:37.522Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-16T13:15:38.387Z - Time taken for 'loadNxPlugins' 17.235800000000154ms
+[NX Daemon Server] - 2024-08-16T13:15:45.514Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-08-16T13:15:45.514Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-16T13:15:45.724Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-16T13:15:45.724Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-08-16T13:15:45.724Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-16T13:15:45.770Z - Time taken for 'hash changed files from watcher' 8.107399999998961ms
+[NX Daemon Server] - 2024-08-16T13:15:54.096Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-16T13:15:54.096Z - [WATCHER]: Stopping the watcher for C:\Projects\Privat\angular-material-rail-drawer-plugin (sources)
+[NX Daemon Server] - 2024-08-16T13:15:54.096Z - [WATCHER]: Stopping the watcher for C:\Projects\Privat\angular-material-rail-drawer-plugin (outputs)
+[NX Daemon Server] - 2024-08-16T13:15:54.096Z - Server stopped because: "LOCK_FILES_CHANGED"
+[NX Daemon Server] - 2024-08-16T13:16:03.166Z - Started listening on: \\.\pipe\nx\C:\Users\MAXIMI~1\AppData\Local\Temp\e4fc2e8cf4aa94459a9a\d.sock
+[NX Daemon Server] - 2024-08-16T13:16:03.173Z - [WATCHER]: Subscribed to changes within: C:\Projects\Privat\angular-material-rail-drawer-plugin (native)
+[NX Daemon Server] - 2024-08-16T13:16:03.175Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-08-16T13:16:03.175Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-08-16T13:16:03.177Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-08-16T13:16:03.179Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-08-16T13:16:03.198Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-16T13:16:03.198Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-16T13:16:03.198Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-16T13:16:04.280Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-08-16T13:16:04.282Z - Time taken for 'total for creating and serializing project graph' 1101.2258000000002ms
+[NX Daemon Server] - 2024-08-16T13:16:04.284Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-08-16T13:16:04.285Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1101. Response time: 5.
+[NX Daemon Server] - 2024-08-16T13:16:04.318Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-08-16T13:16:04.318Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-08-16T13:16:04.319Z - Handled HASH_TASKS. Handling time: 18. Response time: 1.
+[NX Daemon Server] - 2024-08-16T13:16:05.772Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-16T13:16:06.997Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-16T13:16:07.154Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-16T13:16:07.163Z - [REQUEST]: Responding to the client. recordOutputsHash
+[NX Daemon Server] - 2024-08-16T13:16:07.164Z - Done responding to the client recordOutputsHash
+[NX Daemon Server] - 2024-08-16T13:16:07.164Z - Handled RECORD_OUTPUTS_HASH. Handling time: 2. Response time: 1.
+[NX Daemon Server] - 2024-08-16T13:16:07.200Z - [REQUEST]: Responding to the client. handleWriteTaskRunsToHistory
+[NX Daemon Server] - 2024-08-16T13:16:07.200Z - Done responding to the client handleWriteTaskRunsToHistory
+[NX Daemon Server] - 2024-08-16T13:16:07.200Z - Handled WRITE_TASK_RUNS_TO_HISTORY. Handling time: 2. Response time: 0.
+[NX Daemon Server] - 2024-08-16T13:16:07.202Z - [REQUEST]: Responding to the client. handleGetTaskHistoryForHashes
+[NX Daemon Server] - 2024-08-16T13:16:07.203Z - Done responding to the client handleGetTaskHistoryForHashes
+[NX Daemon Server] - 2024-08-16T13:16:07.203Z - Handled GET_TASK_HISTORY_FOR_HASHES. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-16T13:16:07.207Z - Closed a connection. Number of open connections: 0

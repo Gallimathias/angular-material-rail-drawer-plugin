@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx build --project angular-material-rail-drawer",
+    "startTime": "2024-08-16T13:16:04.320Z",
+    "endTime": "2024-08-16T13:16:07.193Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "angular-material-rail-drawer:build:production",
+      "target": "build",
+      "projectName": "angular-material-rail-drawer",
+      "hash": "4132712982100507816",
+      "startTime": "2024-08-16T13:16:04.331Z",
+      "endTime": "2024-08-16T13:16:07.193Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}

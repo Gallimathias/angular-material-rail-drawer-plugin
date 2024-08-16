@@ -1,0 +1,22 @@
+[34mBuilding Angular Package[39m
+[37m[39m
+[37m------------------------------------------------------------------------------[39m
+[37mBuilding entry point 'angular-material-rail-drawer'[39m
+[37m------------------------------------------------------------------------------[39m
+- Compiling with Angular sources in Ivy partial compilation mode.
+[32m✔[39m Compiling with Angular sources in Ivy partial compilation mode.
+[32m✔[39m Generating FESM bundles
+- Copying assets
+[32m✔[39m Copying assets
+- Writing package manifest
+[32m✔[39m Writing package manifest
+[32m✔[39m Built angular-material-rail-drawer
+[32m[39m
+[32m------------------------------------------------------------------------------[39m
+[32mBuilt Angular Package[39m
+[32m - from: C:\Projects\Privat\angular-material-rail-drawer-plugin\projects\angular-material-rail-drawer[39m
+[32m - to:   C:\Projects\Privat\angular-material-rail-drawer-plugin\dist\angular-material-rail-drawer[39m
+[32m------------------------------------------------------------------------------[39m
+[37m[37m[39m[37m[39m
+[37m[37mBuild at: [1m2024-08-16T13:16:07.134Z[22m - Time: [1m1227[22mms[39m[37m[39m
+[37m[37m[39m[37m[39m
